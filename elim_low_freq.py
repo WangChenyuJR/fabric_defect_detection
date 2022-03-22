@@ -1,7 +1,6 @@
 import numpy as np
 import cv2 as cv
 import os
-import os
 import linecache
 import scipy
 import scipy.misc
